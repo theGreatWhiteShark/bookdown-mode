@@ -39,10 +39,12 @@ For the time being I would recommend to enable the mathematical highlighting pro
 
 This will color your inline equations. If you want to highlight your LaTeX-style equation blocks as well, insert `$$` right before and after a block. 
 
-> $$\begin{equation}
->   M_n =  \max\left\{ X_1, \ldots, X_n \right\}
->   (\#eq:rescaling)
-> \end{equation}$$
+``` tex
+$$\begin{equation}
+  M_n =  \max\left\{ X_1, \ldots, X_n \right\}
+  (\#eq:rescaling)
+\end{equation}$$
+```
 
 ---
 
